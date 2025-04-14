@@ -6,6 +6,13 @@
         "description": "Create date-links based on natural language.",
         "repo": "argenos/nldates-obsidian"
     },
+	{
+		"id": "smart-link-get",
+		"name": "Smart Link Get",
+		 "author": "FRATTOOO",
+        	"description": "Get links easily with a click ",
+        	"repo": "FRATTOOO/smart-get-links-obsidian/"
+	},
     {
         "id": "hotkeysplus-obsidian",
         "name": "Hotkeys++",
