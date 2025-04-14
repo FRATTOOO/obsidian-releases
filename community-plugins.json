@@ -5914,6 +5914,13 @@
         "description": "Render LaTeX-style pseudocode inside a code block.",
         "repo": "ytliu74/obsidian-pseudocode"
     },
+	{
+	"id": "smart-link-get",
+        "name": "Smart Link Get",
+        "author": "FRATTOOO",
+        "description": "Get links easily with a click",
+        "repo": "FRATTOOO/smart-get-links-obsidian"
+	}
     {
         "id": "advanced-merger",
         "name": "Advanced Merger",
